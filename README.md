@@ -32,7 +32,7 @@ Parameters (a, b, $$\tau$$, $$I_{\text{ext}}$$) control the system’s excitabil
 * `matplotlib.pyplot.streamplot` visualizes the flow in the phase plane
 * Nullclines are plotted for reference:
 
-  * v-nullcline: (w = v - v^3/3 + I_{\text{ext}})
+  * v-nullcline: (w = v - v^3/3 + $$I_{\text{ext}}$$)
   * w-nullcline: (w = (v + a)/b)
 
 ## What the Plot Shows
